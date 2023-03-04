@@ -1,4 +1,5 @@
- function convert() {
+
+  function convert() {
   var input = document.getElementById("input").value;
   var unit = document.getElementById("unit").value;
   var result = document.getElementById("result");
